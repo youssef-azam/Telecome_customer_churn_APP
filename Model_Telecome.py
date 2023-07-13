@@ -92,5 +92,3 @@ if st.button("Predict"):
     else:
         st.success(f"The predicted churn status for the customer is: {churn_status}")
 
-# Display a GIF
-st.image(r"C:\Users\youssef azam\Downloads\Dashboard 2.png", width=700)
