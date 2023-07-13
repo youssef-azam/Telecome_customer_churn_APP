@@ -100,8 +100,7 @@ st.image("Dashboard 1 (1).png", width=200)
 
 st.text("Create By:- Youssef Azam ")
 # Display a text description of yourself
-st.text("My name is Youssef Azam, I'm currently studying Computer Science and Artificial Intelligence
-. I'm passionate about the field of Data Science.")
+st.text("My name is Youssef Azam, I'm currently studying Computer Science and Artificial Intelligence. I'm passionate about the field of Data Science.")
 
 # Display a link to your LinkedIn profile
 st.text("LinkedIn Profile: ")
