@@ -30,7 +30,7 @@ X = df[['Married', 'Number of Dependents', 'Number of Referrals',
 y = df['Customer Status']
 
 # Load the pickled model
-with open(r"C:\Users\youssef azam\Downloads\RF.pkl", 'rb') as file:
+with open(r"https://github.com/youssef-azam/Telecome_customer_churn_APP/blob/main/RF.pkl", 'rb') as file:
     model = pickle.load(file)
 
 # Create the Streamlit app
