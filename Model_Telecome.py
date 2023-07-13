@@ -94,9 +94,9 @@ if st.button("Predict"):
 
 st.text("Dashboard Using Tableau")
 # Display an image of yourself
-st.image("Dashboard 2.png", width=200)
+st.image("Dashboard 2.png", width=500)
 # Display an image of yourself
-st.image("Dashboard 1 (1).png", width=200)
+st.image("Dashboard 1 (1).png", width=500)
 
 st.text("Create By:- Youssef Azam ")
 # Display a text description of yourself
