@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the data into a DataFrame (replace 'df' with your actual DataFrame)
-df = pd.read_csv(r"C:\Users\youssef azam\Desktop\telecom_customer_churn.csv")
+df = pd.read_csv(r"https://raw.githubusercontent.com/youssef-azam/Telecome_customer_churn_APP/main/telecom_customer_churn.csv")
 
 # Mapping dictionary for categorical features
 mapping = {
