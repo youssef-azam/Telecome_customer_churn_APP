@@ -92,6 +92,12 @@ if st.button("Predict"):
     else:
         st.success(f"The predicted churn status for the customer is: {churn_status}")
 
+st.text("Dashboard Using Tableau")
+# Display an image of yourself
+st.image("Dashboard 2.png", width=200)
+# Display an image of yourself
+st.image("Dashboard 1 (1).png", width=200)
+
 st.text("Create By:- Youssef Azam ")
 # Display a text description of yourself
 st.text("My name is Youssef Azam, I'm currently studying Computer Science and Artificial Intelligence
