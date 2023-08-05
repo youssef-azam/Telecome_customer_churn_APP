@@ -98,7 +98,7 @@ st.image("Dashboard 2.png", width=1000)
 # Display an image of yourself
 st.image("Dashboard 1 (1).png", width=1000)
 
-st.text("Create By:- Youssef Azam ")
+st.text("Create By:- Youssef Azam $")
 # Display a text description of yourself
 st.text("My name is Youssef Azam, I'm currently studying Computer Science and Artificial Intelligence. I'm passionate about the field of Data Science.")
 
